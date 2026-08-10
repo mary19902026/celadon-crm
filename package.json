@@ -1,0 +1,10 @@
+{
+  "name": "celadon-crm-mobile",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "latest"
+  }
+}

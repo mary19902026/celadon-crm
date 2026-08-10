@@ -1,0 +1,1 @@
+نسخه موبایلی آفلاین CRM سلادن. برای APK باید با Capacitor و Android Studio بسته‌بندی شود. Backup/Restore داخل برنامه وجود دارد.
