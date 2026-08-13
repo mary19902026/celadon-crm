@@ -1,10 +1,13 @@
 {
-  "name": "celadon-crm-mobile",
+  "name": "celadon-crm-v4",
+  "version": "4.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite --host 0.0.0.0"
+    "build": "echo build"
   },
   "dependencies": {
-    "vite": "latest"
+    "@capacitor/core": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/android": "latest"
   }
 }
